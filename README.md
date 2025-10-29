@@ -17,6 +17,6 @@ I'm a curious, dedicated person who is always learning. Currently studying Syste
 
 ### 🧠 Recent Learnings:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ---
